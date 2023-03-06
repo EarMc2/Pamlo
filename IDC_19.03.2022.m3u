@@ -9,10 +9,12 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 http://rt-glb.rttv.com/live/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="News",RT Docs
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
-#EXTINF:-1 group-title="News",CNN Int. (UK)
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="News",France 24 English (1080p)
-https://hls.youtb.workers.dev/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+#EXTINF:-1 group-title="Claro-COL",Warner
+http://190.131.228.59:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="Claro-COL",Nat Geo
+http://190.131.228.59:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="News",CCTV-13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 group-title="News",Sky News
 https://siloh.pluto.tv:443/lilo/production/SkyNews/master_1.m3u8
 #EXTINF:-1 group-title="News",CBC TV8 Barbados
