@@ -13,6 +13,46 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 http://190.131.228.59:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="Claro-COL",Nat Geo
 http://190.131.228.59:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", HBO
+http://190.131.228.59:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Universal
+http://190.60.39.62:8000/play/a00n
+#EXTINF:-1 group-title="Claro-COL", TVE
+http://190.60.39.62:8000/play/a012
+#EXTINF:-1 group-title="Claro-COL", TLC
+http://190.60.39.62:8000/play/a02b
+#EXTINF:-1 group-title="Claro-COL", TNT Lat
+http://190.60.39.62:8000/play/a00x
+#EXTINF:-1 group-title="Claro-COL", TNT
+http://190.131.228.59:8000/play/a0r2/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Space
+http://190.60.39.62:8000/play/a049
+#EXTINF:-1 group-title="Claro-COL", STAR CHANNEL
+http://190.60.39.62:8000/play/a00t
+#EXTINF:-1 group-title="Claro-COL", FX
+http://190.60.39.62:8000/play/a04a
+#EXTINF:-1 group-title="Claro-COL", ESPN CO
+http://190.131.228.59:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", ESPN 2 Latin
+http://190.60.39.62:8000/play/a01u
+#EXTINF:-1 group-title="Claro-COL", ESPN
+http://190.60.39.62:8000/play/a01v
+#EXTINF:-1 group-title="Claro-COL", Cinemax
+http://190.60.39.62:8000/play/a046
+#EXTINF:-1 group-title="Claro-COL", Cinecanal
+http://190.60.39.62:8000/play/a00m
+#EXTINF:-1 group-title="Claro-COL", Cartoon Network
+http://190.60.39.62:8000/play/a00w
+#EXTINF:-1 group-title="Claro-COL", Animal Planet
+http://190.60.39.62:8000/play/a01q
+#EXTINF:-1 group-title="Claro-COL", AXN
+http://190.60.39.62:8000/play/a048
+#EXTINF:-1 group-title="Claro-COL", TNT Series HD
+http://190.131.228.59:8000/play/a0rj/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Film&Arts
+http://190.131.228.59:8000/play/a0qv/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Cinecanal HD
+http://190.131.228.59:8000/play/a0ro/index.m3u8
 #EXTINF:-1 group-title="News",CCTV-13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 group-title="News",Sky News
