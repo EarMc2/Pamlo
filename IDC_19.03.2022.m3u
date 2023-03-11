@@ -25,6 +25,8 @@ http://190.131.228.59:8000/play/a08j/index.m3u8
 http://190.60.39.62:8000/play/a00n
 #EXTINF:-1 group-title="Claro-COL", Discovery H&H HD
 http://190.131.228.59:8000/play/a0re/index.m3u8
+#EXTINF:-1 group-title="Claro-COL", Discovery HD
+http://190.131.228.59:8000/play/a0j2/index.m3u8
 #EXTINF:-1 group-title="Claro-COL", TVE
 http://190.60.39.62:8000/play/a012
 #EXTINF:-1 group-title="Claro-COL", TLC
