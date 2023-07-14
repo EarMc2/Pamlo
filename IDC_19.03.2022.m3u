@@ -65,18 +65,20 @@ http://190.131.228.59:8000/play/a0qv/index.m3u8
 http://190.131.228.59:8000/play/a0ro/index.m3u8
 #EXTINF:-1 group-title="News",CCTV-13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-#EXTINF:-1 group-title="News",Sky News
-https://siloh.pluto.tv:443/lilo/production/SkyNews/master_1.m3u8
+#EXTINF:-1 group-title="News",NBC LX
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 group-title="News",CBC TV8 Barbados
 http://1740288887.rsc.cdn77.org/1740288887/tracks-v2a1/rewind-3600.m3u8
 #EXTINF:-1,Pac 12 Insider
 http://pac12-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News",BBC News
-http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1,Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="News",BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="News",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="News",GB News
-https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+https://live-gbnews.simplestreamcdn.com/s3/gbnews_ssai/index.m3u8
 #EXTINF:-1 group-title="News",Court TV
 http://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/04.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW
@@ -115,25 +117,15 @@ https://live1.presstv.ir/live/presstv.m3u8
 http://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,PBS Minneapolis
 http://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
-#EXTINF:-1,PBS Allentown
-https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+#EXTINF:-1,PBS Guam
+https://ythls.onrender.com/channel/UCaVp5oNNuIZVU7qqhSX0LGQ.m3u8
 #EXTINF:-1,PBS World
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1,PBS | KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1,PBS Kids | KET
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1,PBS Fairbanks
-http://status.tehw00t.net/miniProxy.php/https://pbs.lls.cdn.pbs.org/pst/index.m3u8
-#EXTINF:-1,PBS Arlington
-http://status.tehw00t.net/miniProxy.php/https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1,PBS Warrensburg
-http://status.tehw00t.net/miniProxy.php/https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-#EXTINF:-1,PBS Providence
-http://status.tehw00t.net/miniProxy.php/https://hls-wsbedt.lls.cdn.pbs.org/bpk-tv/pbs/default/index.m3u8
 #EXTINF:-1,NBC News Now
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1,NBC News Now2
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kiVL66Q.png",Yahoo! Finance
 http://yahoo-samsung.amagi.tv/playlist.m3u8
@@ -141,26 +133,22 @@ http://yahoo-samsung.amagi.tv/playlist.m3u8
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_192x192.png",NHK World TV
 http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://files.hubhopper.com/podcast/211965/chinese-news-nhk-world-radio-japan.jpg",NHK China
-http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="News",NHK World Premium
 http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="News",Hope Channel
-https://hcintlinc.mmdlive.lldns.net/hcintlinc/9649814c00e54c6eabc8d12d3cddd26c/index.m3u8
+https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/stream_t1_r720001.m3u8?useMezzanine=false
 #EXTINF:-1 group-title="News",3ABN
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/HQs/chunklist.m3u8
 #EXTINF:-1 group-title="News",TBN
 http://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
-#EXTINF:-1,Love Nature
-http://bamus-eng-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1 group-title="News",Smithsonian
 http://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQuPjTD.png",Xplore
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Positiv TV
-http://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
 #EXTINF:-3 group-title="Religous",CBN News
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_2/chunklist.m3u8
 #EXTINF:-1 group-title="News",CBSN New York
 http://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1,Info Wars
@@ -177,20 +165,12 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 http://edgesport-samsunguk.amagi.tv/playlist720pl.m3u8
 #EXTINF:-1,AWE
 http://n1.klowdtv.net/live1/awe_360p/chunks.m3u8
-#EXTINF:-1 ,DocuStream
-https://docubox-english-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1,Global BC
 http://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
 #EXTINF:-1,A&E (Best of)
 http://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778",History Channel (Best of)
 http://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1,UALR TV
-http://vblive-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xjCtEPH.png" group-title="USA",Food52 
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iwd9Jxb.png",Plant-Based Network
-http://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CViR0E.png" ,Outside TV+
 http://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Movie Kingdom
@@ -210,9 +190,7 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 group-title="News",Panama City
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="USA",NASA TV
-http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1,EBS English
-http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 group-title="News",Arirang TV Korea KR
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="News",Channel News Asia Singapore
@@ -221,10 +199,6 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mTd5yQ0.png",TYT
 http://tyt-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News",Arise News Nigeria
-http://contributionstreams.sechls01.visionip.tv/live/visiontv-contributionstreams-arise-tv-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,SOUTH KOREA: EBS 2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="News",CGTN America
 http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 group-title="News",CGTN Documentary
@@ -238,7 +212,7 @@ http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3
 #EXTINF:-1 group-title="News",TWiT
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 #EXTINF:-2 group-title="USA" tvg-logo="https://i.imgur.com/iJldO7U.jpg",NASA TV Media
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:0,QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:0,Japan Weather News
@@ -247,18 +221,12 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-2 group-title="Movies",EXTREMA TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,NYC NYXT
-http://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
 #EXTINF:-1,CNC3
-http://dacastmmd.mmdlive.lldns.net/dacastmmd/0afc3391a0f34d24afd9a552adc89796/chunklist_b4628000.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/6d9d168cf9a44f0cb319356c70fcecf7/chunklist_b732000.m3u8?p=79&s=1689365495&e=1689365615&h=04ba39a1c7c9b12a7e6a51b4290cffe4
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/ziJEkGB.png",TRT World
 http://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-3 group-title="Religous" tvg-logo="https://www.prri.org/wp-content/uploads/2016/12/CBN-logo2-350x225.png",CBN
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/index_1200_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-3 group-title="Religous",Amazing Discoveries
 https://adcdnpremium-amazingdiscoveries-uswe.streaming.media.azure.net/2b0d1188-b54a-4ea5-b4ce-507666062d14/2021.ism/QualityLevels(1476916)/Manifest(video,format=m3u8-aapl)
-#EXTINF:-3 group-title="Religous", TBN-EJTV 
-http://api.new.livestream.com/accounts/27460990/events/8266929/live.m3u8
 #EXTINF:-3 group-title="Religous", BetterLifeTV
 http://uni5rtmp.tulix.tv/betterlife/betterlife/chunklist_w2126415016.m3u8
 #EXTINF:-3 group-title="Religous", Better Health TV
