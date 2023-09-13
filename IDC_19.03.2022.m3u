@@ -9,62 +9,66 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 http://rt-glb.rttv.com/live/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="News",RT Docs
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
-#EXTINF:-1 group-title="Claro-COL",Warner
-http://190.131.228.59:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="Claro-COL",Nat Geo
-http://190.131.228.59:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", HBO
-http://190.131.228.59:8000/play/a09a/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", HBO XTREME SD
-http://190.131.228.59:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", HBO Plus
-http://190.131.228.59:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", HBO 2
-http://190.131.228.59:8000/play/a08j/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Universal
-http://190.60.39.62:8000/play/a00n
-#EXTINF:-1 group-title="Claro-COL", Discovery H&H HD
-http://190.131.228.59:8000/play/a0re/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Discovery HD
-http://190.131.228.59:8000/play/a0j2/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", TVE
-http://190.60.39.62:8000/play/a012
-#EXTINF:-1 group-title="Claro-COL", TLC
-http://190.60.39.62:8000/play/a02b
-#EXTINF:-1 group-title="Claro-COL", TNT Lat
-http://190.60.39.62:8000/play/a00x
-#EXTINF:-1 group-title="Claro-COL", TNT
-http://190.131.228.59:8000/play/a0r2/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Space
-http://190.60.39.62:8000/play/a049
-#EXTINF:-1 group-title="Claro-COL", STAR CHANNEL
-http://190.60.39.62:8000/play/a00t
-#EXTINF:-1 group-title="Claro-COL", FX
-http://190.60.39.62:8000/play/a04a
-#EXTINF:-1 group-title="Claro-COL", ESPN CO
-http://190.131.228.59:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", ESPN 2 Latin
-http://190.60.39.62:8000/play/a01u
-#EXTINF:-1 group-title="Claro-COL", ESPN
-http://190.60.39.62:8000/play/a01v
-#EXTINF:-1 group-title="Claro-COL", Cinemax
-http://190.60.39.62:8000/play/a046
-#EXTINF:-1 group-title="Claro-COL", Cinecanal
-http://190.60.39.62:8000/play/a00m
-#EXTINF:-1 group-title="Claro-COL", Cartoon Network
-http://190.60.39.62:8000/play/a00w
-#EXTINF:-1 group-title="Claro-COL", Animal Planet
-http://190.60.39.62:8000/play/a01q
-#EXTINF:-1 group-title="Claro-COL", AXN
-http://190.60.39.62:8000/play/a048
-#EXTINF:-1 group-title="Claro-COL", TNT Series HD
-http://190.131.228.59:8000/play/a0rj/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Film&Arts
-http://190.131.228.59:8000/play/a0qv/index.m3u8
-#EXTINF:-1 group-title="Claro-COL", Cinecanal HD
-http://190.131.228.59:8000/play/a0ro/index.m3u8
+#EXTINF:-1,Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1, Tennis 2
+https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist720_p.m3u8
+#EXTINF:-1,DIREC TV SPORTS
+http://playhispano.org:8080/RolaM/TZRfjE6xGN/79660
+#EXTINF:-1,BEIN SPORT 2
+http://7f5ad5a8.tvclub.xyz/iptv/NGG8FXA8A4FG8S/2500/index.m3u8
+#EXTINF:-1,Willow cricket
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/60e1e48b-6e6b-4ea2-9a8b-ce7040c71378.m3u8
+#EXTINF:-1,True History
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:-1,Sundance
+https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/profile_1/chunklist.m3u8
+#EXTINF:-1,Warner
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157550
+#EXTINF:-1,SYFY HD
+http://50.7.137.106:8080/SYFY/index.m3u8?token=test
+#EXTINF:-1,FOX HD
+http://50.7.137.106:8080/FOX/index.m3u8?token=test
+#EXTINF:-1,AXN HD
+http://50.7.137.106:8080/AXN/index.m3u8?token=test
+#EXTINF:-1,HOLLYWOOD HD
+http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
+#EXTINF:-1,AMC HD
+http://50.7.137.106:8080/AMC/index.m3u8?token=test
+#EXTINF:-1,China Movie Channel
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156417&extension=ts&play_token=Rk1ga2rPdx
+#EXTINF:-1,Sky Cinema Action
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79471&extension=ts&play_token=HMFfs8lHwd
+#EXTINF:-1,Sky Cinema Great
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79466&extension=ts&play_token=0n75sKKzYx
+#EXTINF:-1,Sky Cinema Hits
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79465&extension=ts&play_token=5aeBQPEM9S
+#EXTINF:-1,Sky Cinema Premier
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79464&extension=ts&play_token=UVlDovg95s
+#EXTINF:-1,Sky Cinema SCI-FI
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79463&extension=ts&play_token=rf5b8r8qco
+#EXTINF:-1,HBO Signature* 
+http://208.115.225.174:14160
+#EXTINF:-1,HBO*
+http://208.115.225.174:14136
+#EXTINF:-1,HBO Extreme*
+http://208.115.225.174:14165
+#EXTINF:-1,HBO2*
+http://208.115.225.174:14140
+#EXTINF:-1,HBO Mundi*
+http://208.115.225.174:14148
+#EXTINF:-1,Animal Planet
+http://190.109.22.226:9991/play/a081/index.m3u8
+#EXTINF:-2,Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1,Game Show Network
+http://n1.klowdtv.net/live2/gsn_360p/chunks.m3u8
+#EXTINF:-1,GSN HD
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 group-title="News",CCTV-13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+#EXTINF:-1 group-title="News",SAS TV
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1 group-title="News",NBC LX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 group-title="News",CBC TV8 Barbados
@@ -77,26 +81,22 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="News",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="News",BBC World
+http://190.108.87.149:8000/play/a01v/index.m3u8
+#EXTINF:1, group-title="News"BBC News
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
 #EXTINF:-1 group-title="News",GB News
 https://live-gbnews.simplestreamcdn.com/s3/gbnews_ssai/index.m3u8
 #EXTINF:-1 group-title="News",Court TV
 http://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/04.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
-#EXTINF:-1,iON Plus
-http://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Bon Appetit
 https://bonappetit-samsung.amagi.tv/master504p.m3u8
-#EXTINF:-1,ifood
-https://ft-ifood-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:-1,Gusto TV
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/089025e8e07edc059504b28ffd897267.m3u8
 #EXTINF:-1,So Yummy
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/1280x720_2855600/chunklist.m3u8
-#EXTINF:-1,Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Sundance
-https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1,Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_480p30.m3u8
 #EXTINF:-1,Lake Live
@@ -112,7 +112,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/
 #EXTINF:-1,Tropics Live
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 #EXTINF:-1 group-title="News",Press TV
-https://live1.presstv.ir/live/presstv.m3u8
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b644100_slen.m3u8
 #EXTINF:-1,PBS America
 http://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,PBS Minneapolis
@@ -121,12 +121,12 @@ http://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
 https://ythls.onrender.com/channel/UCaVp5oNNuIZVU7qqhSX0LGQ.m3u8
 #EXTINF:-1,PBS World
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1,PBS | KET WORLD
+https://2-fss-1.streamhoster.com/pl_122/amlst%3a200914-2942150/playlist.m3u8
 #EXTINF:-1,PBS | KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1,PBS Kids | KET
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1,NBC News Now
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kiVL66Q.png",Yahoo! Finance
 http://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",Euronews
@@ -153,12 +153,6 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-e
 http://www.cbsnews.com/common/video/cbsn-ny-prod.m3u8
 #EXTINF:-1,Info Wars
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
-#EXTINF:-2,Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1,Game Show Network
-http://n1.klowdtv.net/live2/gsn_360p/chunks.m3u8
-#EXTINF:-1,PoP
-http://n1.klowdtv.net/live2/pop_360p/chunks.m3u8
 #EXTINF:-1,Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Edge Sports
@@ -167,10 +161,6 @@ http://edgesport-samsunguk.amagi.tv/playlist720pl.m3u8
 http://n1.klowdtv.net/live1/awe_360p/chunks.m3u8
 #EXTINF:-1,Global BC
 http://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
-#EXTINF:-1,A&E (Best of)
-http://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778",History Channel (Best of)
-http://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CViR0E.png" ,Outside TV+
 http://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Movie Kingdom
