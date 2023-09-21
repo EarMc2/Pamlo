@@ -117,18 +117,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/1280x720_2855600
 #EXTINF:-1,Canal 26 Agentina
 http://live-edge01.telecentro.net.ar/live/c26.smil/chunklist_w1692857809_b1864000_sleng.m3u8
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_480p30.m3u8
-#EXTINF:-1,Lake Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1,Forest Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1,Beaches Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1,Mountains Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1,Rivers Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1,Tropics Live
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
 #EXTINF:-1 group-title="News",Press TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b644100_slen.m3u8
 #EXTINF:-1,PBS America
