@@ -37,6 +37,16 @@ http://50.7.137.106:8080/AXN/index.m3u8?token=test
 http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
 #EXTINF:-1,AMC HD
 http://50.7.137.106:8080/AMC/index.m3u8?token=test
+#EXTINF:-1,Animal Planet
+http://190.109.22.226:9991/play/a081/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://179.1.67.51:8000/play/a05p/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://179.1.67.51:8000/play/a05m/index.m3u8
+#EXTINF:-1,Paramount HD
+http://179.1.67.51:8000/play/a05q/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://179.1.67.51:8000/play/a036/index.m3u8
 #EXTINF:-1,China Movie Channel
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156417&extension=ts&play_token=Rk1ga2rPdx
 #EXTINF:-1,Sky Cinema Action
@@ -59,16 +69,6 @@ http://208.115.225.174:14165
 http://208.115.225.174:14140
 #EXTINF:-1,HBO Mundi*
 http://208.115.225.174:14148
-#EXTINF:-1,Animal Planet
-http://190.109.22.226:9991/play/a081/index.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://179.1.67.51:8000/play/a05p/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://179.1.67.51:8000/play/a05m/index.m3u8
-#EXTINF:-1,Paramount HD
-http://179.1.67.51:8000/play/a05q/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://179.1.67.51:8000/play/a036/index.m3u8
 #EXTINF:-1,Moviesphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Crackle
