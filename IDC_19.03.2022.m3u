@@ -65,10 +65,38 @@ http://208.115.225.174:14140
 http://208.115.225.174:14148
 #EXTINF:-1,Animal Planet
 http://190.109.22.226:9991/play/a081/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://179.1.67.51:8000/play/a05p/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://179.1.67.51:8000/play/a05m/index.m3u8
+#EXTINF:-1,Paramount HD
+http://179.1.67.51:8000/play/a05q/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://179.1.67.51:8000/play/a036/index.m3u8
 #EXTINF:-1,Moviesphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Crackle
 https://crackle-plex.amagi.tv/playlist480p.m3u8
+#EXTINF:-1,Comedy Central HD
+http://179.1.67.51:8000/play/a05j/index.m3u8
+#EXTINF:-1,DHE HD
+http://179.1.67.51:8000/play/a06a/index.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://179.1.67.51:8000/play/a03o/index.m3u8
+#EXTINF:-1,Discovery HD
+http://179.1.67.51:8000/play/a03l/index.m3u8
+#EXTINF:-1,ESPN HD
+http://179.1.67.51:8000/play/a05y/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://179.1.67.51:8000/play/a035/index.m3u8
+#EXTINF:-1,Golden HD
+http://179.1.67.51:8000/play/a04c/index.m3u8
+#EXTINF:-1,HGTV
+http://179.1.67.51:8000/play/a062/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://179.1.67.51:8000/play/a02v/index.m3u8
+#EXTINF:-1,Space HD
+http://179.1.67.51:8000/play/a05u/index.m3u8
 #EXTINF:-1,Horse and Country (720p)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Real Stories (720p)
