@@ -51,6 +51,8 @@ http://170.254.18.110/DISCOVERY/tracks-v2a1/mono.m3u8
 http://170.254.18.109/DISCOVERY_WORLD/tracks-v2a1/mono.m3u8
 #EXTINF:-1,Universal Channel
 http://170.254.18.108/UNIVERSAL/tracks-v2a1/mono.m3u8
+#EXTINF:-1,SYFY
+http://170.254.18.109/SYFY/tracks-v2a1/mono.m3u8
 #EXTINF:-1,Animal Planet
 http://190.109.22.226:9991/play/a081/index.m3u8
 #EXTINF:-1,Cartoon Network HD
