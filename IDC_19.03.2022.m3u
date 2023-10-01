@@ -38,7 +38,6 @@ http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
 #EXTINF:-1,AMC HD
 http://50.7.137.106:8080/AMC/index.m3u8?token=test
 #EXTINF:-1,Discovery Science
-#EXTVLCOPT:audio-track=1
 http://190.186.131.18:58001/play/a01z/index.m3u8
 #EXTINF:-1,Space
 http://45.177.111.66:8050/play/a0mz
