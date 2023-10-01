@@ -41,6 +41,16 @@ http://50.7.137.106:8080/AMC/index.m3u8?token=test
 http://190.186.131.18:58001/play/a01z/index.m3u8
 #EXTINF:-1,Space
 http://45.177.111.66:8050/play/a0mz
+#EXTINF:-1,CNN
+http://170.254.18.108/CNN/tracks-v2a1/mono.m3u8
+#EXTINF:-1,NBA
+http://170.254.18.109/NBA/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Discovery Channel
+http://170.254.18.110/DISCOVERY/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Discovery World
+http://170.254.18.109/DISCOVERY_WORLD/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Universal Channel
+http://170.254.18.108/UNIVERSAL/tracks-v2a1/mono.m3u8
 #EXTINF:-1,Animal Planet
 http://190.109.22.226:9991/play/a081/index.m3u8
 #EXTINF:-1,Cartoon Network HD
