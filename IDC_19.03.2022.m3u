@@ -27,6 +27,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e35500091
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 #EXTINF:-1,Sundance
 https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/profile_1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png",LOVE NATURE
+https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
 #EXTINF:-1,SYFY HD
 http://50.7.137.106:8080/SYFY/index.m3u8?token=test
 #EXTINF:-1,FOX HD
