@@ -13,8 +13,10 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, Tennis 2
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist720_p.m3u8
+#EXTINF:-1 group-title="Spain",24H
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
-https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8?start=1702208665
+#EXTINF:-1 group-title="Spain",ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b59MxgM.png" group-title="Spain",3/24
 https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XaiP3nJ.png" group-title="Spain",Bon Dia
