@@ -1,21 +1,25 @@
 #EXTM3U  ~ IDC Office 19.03.2022 ~
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/E2YR6Oa.png",Al-Jazeera
 http://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1 group-title="News",Reuters Now
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/6eQ2nCJ.png",Reuters Now
 https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/bloomberg_tv.png?itok=ASn4xA1N",Bloomberg TV USA-US
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 group-title="News",Russia Today
 http://rt-glb.rttv.com/live/rtnews/playlist_1600Kb.m3u8
-#EXTINF:-1 group-title="News",RT Docs
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/v5fpEBo.png",RT Docs
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 #EXTINF:-1,Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, Tennis 2
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist720_p.m3u8
-#EXTINF:-1 group-title="Spain",24H
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N3xiz4m.png" group-title="USA",BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ii8DX1x.png" group-title="USA",BBC Home
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/ZKR2jKr.png",24H
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
-#EXTINF:-1 group-title="Spain",ETB 2
+#EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/VBVu2bu.png",ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b59MxgM.png" group-title="Spain",3/24
 https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8
