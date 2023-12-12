@@ -13,6 +13,8 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, Tennis 2
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist720_p.m3u8
+#EXTINF:-1 tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png",TV Daja
+https://rdn.essastream.com:3388/live/dajatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N3xiz4m.png" group-title="USA",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ii8DX1x.png" group-title="USA",BBC Home
@@ -41,10 +43,20 @@ https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/chunklist_b2200000.m3u8
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NbesiPn.png" group-title="Spain",La 1
 https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YBaxWQC.png" group-title="Spain",Galicia TV América
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HQxKLlK.png" group-title="news",Xtrema Animal
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="news",TVBE Joinville
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Movies",MyTime Movie Network Brazil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/prgVynR.jpg" group-title="Trinidad",Trinity TV
 https://sktv-forwarders.7m.pl/get.php?x=Trinity_TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hSJGncF.jpg" group-title="Trinidad",IBN
 https://sktv-forwarders.7m.pl/get.php?x=IBN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EtQolw6.png" group-title="Religious",The Islamic Network
+http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1E73l2j.png" group-title="Trinidad",CNC3
 https://sktv-forwarders.7m.pl/get.php?x=CNC3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GhWdqLq.jpg" group-title="Trinidad",gayelle
