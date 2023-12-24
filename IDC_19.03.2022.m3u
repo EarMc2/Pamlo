@@ -83,72 +83,10 @@ https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/62407
 https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tve-br.png",TVE Brazil
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist_w1031024033_b946000.m3u8
-#EXTINF:-1,SYFY HD
-http://50.7.137.106:8080/SYFY/index.m3u8?token=test
-#EXTINF:-1,FOX HD
-http://50.7.137.106:8080/FOX/index.m3u8?token=test
-#EXTINF:-1,AXN HD
-http://50.7.137.106:8080/AXN/index.m3u8?token=test
 #EXTINF:-1,HOLLYWOOD HD
 http://50.7.137.106:8080/HOLLYWOOD/index.m3u8?token=test
-#EXTINF:-1,AMC HD
-http://50.7.137.106:8080/AMC/index.m3u8?token=test
-#EXTINF:-1,Discovery Science
-http://190.186.131.18:58001/play/a01z/index.m3u8
-#EXTINF:-1,Space
-http://45.177.111.66:8050/play/a0mz
-#EXTINF:-1,CNN
-http://170.254.18.108/CNN/tracks-v2a1/mono.m3u8
-#EXTINF:-1,NBA
-http://170.254.18.109/NBA/tracks-v2a1/mono.m3u8
-#EXTINF:-1,Discovery Channel
-http://170.254.18.110/DISCOVERY/tracks-v2a1/mono.m3u8
-#EXTINF:-1,Discovery World
-http://170.254.18.109/DISCOVERY_WORLD/tracks-v2a1/mono.m3u8
-#EXTINF:-1,Universal Channel
-http://170.254.18.108/UNIVERSAL/tracks-v2a1/mono.m3u8
-#EXTINF:-1,SYFY
-http://170.254.18.109/SYFY/tracks-v2a1/mono.m3u8
 #EXTINF:-1,Animal Planet
 http://190.109.22.226:9991/play/a081/index.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://179.1.67.51:8000/play/a05p/index.m3u8
-#EXTINF:-1,Nat Geo HD
-http://179.1.67.51:8000/play/a05m/index.m3u8
-#EXTINF:-1,Nat Geo SD
-http://45.177.111.66:8050/play/a0od
-#EXTINF:-1,Paramount HD
-http://179.1.67.51:8000/play/a05q/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://179.1.67.51:8000/play/a036/index.m3u8
-#EXTINF:-1,HBO SD
-http://45.177.111.66:8050/play/a0mv
-#EXTINF:-1,HBO 2 SD
-http://45.177.111.66:8050/play/a0pq
-#EXTINF:-1,HBO Family SD
-http://45.177.111.66:8050/play/a0pt
-#EXTINF:-1,HBO Plus SD
-http://45.177.111.66:8050/play/a0pr
-#EXTINF:-1,HBO XTREME SD
-http://45.177.111.66:8050/play/a0ps
-#EXTINF:-1,FX SD
-http://45.177.111.66:8050/play/a0n0
-#EXTINF:-1,Cinemax SD
-http://45.177.111.66:8050/play/a0mw
-#EXTINF:-1,Cinecanal SD
-http://45.177.111.66:8050/play/a0of
-#EXTINF:-1,China Movie Channel
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156417&extension=ts&play_token=Rk1ga2rPdx
-#EXTINF:-1,Sky Cinema Action
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79471&extension=ts&play_token=HMFfs8lHwd
-#EXTINF:-1,Sky Cinema Great
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79466&extension=ts&play_token=0n75sKKzYx
-#EXTINF:-1,Sky Cinema Hits
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79465&extension=ts&play_token=5aeBQPEM9S
-#EXTINF:-1,Sky Cinema Premier
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79464&extension=ts&play_token=UVlDovg95s
-#EXTINF:-1,Sky Cinema SCI-FI
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79463&extension=ts&play_token=rf5b8r8qco
 #EXTINF:-1,HBO Signature* 
 http://208.115.225.174:14160
 #EXTINF:-1,HBO*
@@ -161,42 +99,252 @@ http://208.115.225.174:14140
 http://208.115.225.174:14148
 #EXTINF:-1,Moviesphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Crackle
-https://crackle-plex.amagi.tv/playlist480p.m3u8
-#EXTINF:-1,Comedy Central HD
-http://179.1.67.51:8000/play/a05j/index.m3u8
-#EXTINF:-1,DHE HD
-http://179.1.67.51:8000/play/a06a/index.m3u8
-#EXTINF:-1,Discovery H&H HD
-http://179.1.67.51:8000/play/a03o/index.m3u8
-#EXTINF:-1,Discovery HD
-http://179.1.67.51:8000/play/a03l/index.m3u8
-#EXTINF:-1,ESPN HD
-http://179.1.67.51:8000/play/a05y/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
-http://179.1.67.51:8000/play/a035/index.m3u8
-#EXTINF:-1,Golden HD
-http://179.1.67.51:8000/play/a04c/index.m3u8
-#EXTINF:-1,HGTV
-http://179.1.67.51:8000/play/a062/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://179.1.67.51:8000/play/a02v/index.m3u8
-#EXTINF:-1,Space HD
-http://179.1.67.51:8000/play/a05u/index.m3u8
+#EXTINF:-1 ,EUROSPORT 2 HD UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6556/index.m3u8
+#EXTINF:-1 ,BT SPORT 2 FHD UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6565/index.m3u8
+#EXTINF:-1 ,BT SPORT 1 FHD UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/6566/index.m3u8
+#EXTINF:-1 ,Eleven Sports 3 PT
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7062/index.m3u8
+#EXTINF:-1 ,Eleven Sports 6 PT
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7064/index.m3u8
+#EXTINF:-1 ,FOX SPORTS 1 US
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7322/index.m3u8
+#EXTINF:-1 ,FOX SPORTS 2 US
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7323/index.m3u8
+#EXTINF:-1 ,CBS SPORTS NETWORK US
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7324/index.m3u8
+#EXTINF:-1 ,NBC SPORTS NETWORK US
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7327/index.m3u8
+#EXTINF:-1 ,NHL NETWORK US
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7328/index.m3u8
+#EXTINF:-1 ,SKY SPORTS PREMIER LEAGUE UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7335/index.m3u8
+#EXTINF:-1 ,SKY SPORTS FOOTBALL UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7336/index.m3u8
+#EXTINF:-1 ,SKY SPORTS MAIN EVENT UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7337/index.m3u8
+#EXTINF:-1 ,SKY SPORTS ARENA UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7338/index.m3u8
+#EXTINF:-1 ,SKY SPORTS MIX UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7339/index.m3u8
+#EXTINF:-1 ,Sky Sports Action HD UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7340/index.m3u8
+#EXTINF:-1 ,SKY SPORTS RACING UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7341/index.m3u8
+#EXTINF:-1 ,SKY SPORTS F1 UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7342/index.m3u8
+#EXTINF:-1 ,SKY SPORTS CRICKET UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7343/index.m3u8
+#EXTINF:-1 ,SKY SPORTS GOLF UK
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/7344/index.m3u8
+#EXTINF:-1 ,EUROSPORT 2 HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12048/index.m3u8
+#EXTINF:-1 ,VIASAT SPORT EXTRA HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12074/index.m3u8
+#EXTINF:-1 ,VIASAT SPORT HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12075/index.m3u8
+#EXTINF:-1 ,VIASAT SPORT FOOTBAL HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12076/index.m3u8
+#EXTINF:-1 ,VIASAT SPORT GOLF HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12077/index.m3u8
+#EXTINF:-1 ,V Sport Vinter HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12078/index.m3u8
+#EXTINF:-1 ,VIASAT SPORT PREMIUM HD SE
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/12079/index.m3u8
+#EXTINF:-1 ,Fox Sports South
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19138/index.m3u8
+#EXTINF:-1 ,FOX SPORTS ARIZONA HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19139/index.m3u8
+#EXTINF:-1 ,FOX SPORTS FLORIDA HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19140/index.m3u8
+#EXTINF:-1 ,FOX SPORTS HOUSTON HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19141/index.m3u8
+#EXTINF:-1 ,FOX SPORTS PRIME TICKET HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19142/index.m3u8
+#EXTINF:-1 ,FOX SPORTS SOUTHWEST PLUS HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19143/index.m3u8
+#EXTINF:-1 ,FOX SPORTS SPORTSTIME OHIO HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19144/index.m3u8
+#EXTINF:-1 ,FOX SPORTS SUN HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19145/index.m3u8
+#EXTINF:-1 ,FOX SPORTS OKLAHOMA HD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19146/index.m3u8
+#EXTINF:-1 ,FOX NEWS CHANNEL FHD
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19147/index.m3u8
+#EXTINF:-1 ,Bally Sports Great Lakes
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19149/index.m3u8
+#EXTINF:-1 ,BALLY SPORTS SUN
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19150/index.m3u8
+#EXTINF:-1 ,BALLY SPORTS SOUTHEAST CAROLINAS
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19151/index.m3u8
+#EXTINF:-1 ,BALLY SPORTS NORTH
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19152/index.m3u8
+#EXTINF:-1 ,Bally SPORTS MIDWEST
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19153/index.m3u8
+#EXTINF:-1 ,Espn News HD USA
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19154/index.m3u8
+#EXTINF:-1 ,ESPN 2 HD USA
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19155/index.m3u8
+#EXTINF:-1 ,ESPN USA
+http://allm4f1x.russtv.net/iptv/XVGY7MPHN39K6P/19156/index.m3u8
 #EXTINF:-1,Horse and Country (720p)
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Real Stories (720p)
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-2,Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:-1,Game Show Network
-http://n1.klowdtv.net/live2/gsn_360p/chunks.m3u8
 #EXTINF:-1,GSN HD
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 group-title="News",CCTV-13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-#EXTINF:-1 group-title="News",SAS TV
-https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
+#EXTINF:-1 ,PBS 2
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1 ,La 1
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main.m3u8
+#EXTINF:-68 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel xp 
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Documentary" ,Nat Geo UAE
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0,Tastemade US
+https://tastemade-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:0,Tastemade AUS
+https://tastemade-aus-tmina-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0,Tastemade CAN
+https://tastemade-roku-can.amagi.tv/playlist.m3u8
+#EXTINF:0,The Design Network 
+https://thedesignnetwork-pluto.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,AMC HD
+http://45.5.117.182:8000/play/a0fn/index.m3u8
+#EXTINF:-1 ,A&E HD
+http://45.5.117.182:8000/play/a0fm/index.m3u8
+#EXTINF:-1 ,TNT
+http://208.86.19.13:81/16.stream/index.m3u8
+#EXTINF:-1 ,Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 ,SONY HD
+http://45.5.117.182:8000/play/a0i3/index.m3u8
+#EXTINF:-1 ,Discovery
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+#EXTINF:-1 ,Nat Geo HD
+http://45.5.117.182:8000/play/a0jr/index.m3u8
+#EXTINF:-1 ,NEXT - PAN
+http://45.5.117.182:8000/play/a0g5/index.m3u8
+#EXTINF:-1 ,Nick SIM HD
+http://45.5.117.182:8000/play/a0i7/index.m3u8
+#EXTINF:-1 ,Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 ,Cartoon Network (Portuguese)
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+#EXTINF:-1 ,PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 ,PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:-1 ,Animal Planet
+http://45.166.92.22:58001/play/a00m/index.m3u8
+#EXTINF:-1 ,Animal Planet HD
+http://45.5.117.182:8000/play/a0fj/index.m3u8
+#EXTINF:-1 ,Animal Planet
+https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#EXTINF:-1 ,DISCOVERY THEATER HD
+http://45.166.92.22:58001/play/a014/index.m3u8
+#EXTINF:-1 ,Xlpore English(BD)
+http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 ,Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
+#EXTINF:-1 ,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 ,National Geographic Wild
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 ,FOX SPORTS 3
+http://181.78.8.90:16123/play/ch21
+#EXTINF:-1 ,H&H
+http://181.78.8.90:16123/play/ch25
+#EXTINF:-1 ,TLC
+http://181.78.8.90:16123/play/ch26
+#EXTINF:-1 ,G
+http://181.78.8.90:16123/play/ch27
+#EXTINF:-1 ,Food Network
+http://181.78.8.90:16123/play/ch28
+#EXTINF:-1 ,Nat Geo
+http://181.78.8.90:16123/play/ch30
+#EXTINF:-1 ,Pasiones
+http://181.78.8.90:16123/play/ch35
+#EXTINF:-1 ,Ileislas
+http://181.78.8.90:16123/play/ch37
+#EXTINF:-1 ,City
+http://181.78.8.90:16123/play/ch42
+#EXTINF:-1 ,G Plus
+http://181.78.8.90:16123/play/ch46
+#EXTINF:-1 ,G Edge
+http://181.78.8.90:16123/play/ch47
+#EXTINF:-1 ,Sun Ch
+http://181.78.8.90:16123/play/ch48
+#EXTINF:-1 ,Cine Premium
+http://181.78.8.90:16123/play/ch49
+#EXTINF:-1 ,Love Nature
+http://181.78.8.90:16123/play/ch50
+#EXTINF:-1 ,Cine Hispano
+http://181.78.8.90:16123/play/ch51
+#EXTINF:-1 ,DHE
+http://181.78.8.90:16123/play/ch14
+#EXTINF:-1 ,AMC
+http://181.78.8.90:16123/play/ch13
+#EXTINF:-1 ,Cimi
+http://181.78.8.90:16123/play/ch10
+#EXTINF:-1 ,Cartoon Network
+http://181.78.8.90:16123/play/ch09
+#EXTINF:-1 ,FX
+http://181.78.8.90:16123/play/ch08
+#EXTINF:-1 ,Star Channel
+http://181.78.8.90:16123/play/ch07
+#EXTINF:-1 ,Canal Infantil
+http://181.78.8.90:16123/play/ch06
+#EXTINF:-1 ,Cine Familiar
+http://181.78.8.90:16123/play/ch52
+#EXTINF:-1 ,Mimusica Salsa
+http://181.78.8.90:16123/play/ch55
+#EXTINF:-1 ,Mimusica Popular
+http://181.78.8.90:16123/play/ch56
+#EXTINF:-1 ,Colombia
+http://181.78.8.90:16123/play/ch58
+#EXTINF:-1 ,RCN
+http://181.78.8.90:16123/play/ch59
+#EXTINF:-1 ,LBP Sports
+http://181.78.8.90:16123/play/ch60
+#EXTINF:-1 ,Como Tu
+http://181.78.8.90:16123/play/ch61
+#EXTINF:-1 ,Caldas
+http://181.78.8.90:16123/play/ch66
+#EXTINF:-1 ,Multipremier
+http://45.5.117.182:8000/play/a0j4/index.m3u8
+#EXTINF:-1 ,Nat Geo HD
+http://45.5.117.182:8000/play/a0jr/index.m3u8
+#EXTINF:-1 ,NEXT - PAN
+http://45.5.117.182:8000/play/a0g5/index.m3u8
+#EXTINF:-1 ,Nick Jr
+http://45.5.117.182:8000/play/a0eo/index.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://45.5.117.182:8000/play/a0is/index.m3u8
+#EXTINF:-1 ,Discovery Channel HD
+http://45.5.117.182:8000/play/a0ju/index.m3u8
+#EXTINF:-1 ,Discovery Home & Health
+http://45.5.117.182:8000/play/a0iw/index.m3u8
+#EXTINF:-1 ,Discovery ID HD
+http://45.5.117.182:8000/play/a0jy/index.m3u8
+#EXTINF:-1 ,Discovery Kids
+http://45.5.117.182:8000/play/a0ir/index.m3u8
+#EXTINF:-1 ,Discovery World HD
+http://45.5.117.182:8000/play/a0jv/index.m3u8
+#EXTINF:-1 ,Disney
+http://45.5.117.182:8000/play/a0it/index.m3u8
 #EXTINF:-1 group-title="News",NBC LX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1 group-title="News",CBC TV8 Barbados
@@ -211,10 +359,6 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="News",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="News",BBC World
-http://190.108.87.149:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="News",BBC News
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
 #EXTINF:-1 group-title="News",GB News
 https://live-gbnews.simplestreamcdn.com/s3/gbnews_ssai/index.m3u8
 #EXTINF:-1 group-title="News",Court TV
@@ -279,14 +423,10 @@ http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Edge Sports
 http://edgesport-samsunguk.amagi.tv/playlist720pl.m3u8
-#EXTINF:-1,AWE
-http://n1.klowdtv.net/live1/awe_360p/chunks.m3u8
 #EXTINF:-1,Global BC
 http://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1CViR0E.png" ,Outside TV+
 http://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,Movie Kingdom
-http://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1 group-title="News",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 group-title="News",Atlanta Channel
@@ -307,8 +447,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="News",Channel News Asia Singapore
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Newsmax_TV_Logo.png",Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mTd5yQ0.png",TYT
 http://tyt-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",CGTN America
