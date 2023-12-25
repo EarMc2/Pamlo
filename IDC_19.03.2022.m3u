@@ -9,6 +9,8 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 http://rt-glb.rttv.com/live/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/v5fpEBo.png",RT Docs
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
+#EXTINF:-1,HGTV HD
+https://raw.githubusercontent.com/EarMc2/Pamlo/main/HgT.m3u8
 #EXTINF:-1,Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, Tennis 2
