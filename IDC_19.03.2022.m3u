@@ -9,8 +9,28 @@ https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 http://rt-glb.rttv.com/live/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/v5fpEBo.png",RT Docs
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
-#EXTINF:-1,HGTV HD
-https://raw.githubusercontent.com/EarMc2/Pamlo/main/HgT.m3u8
+#EXTINF:-1,Animal Planet
+https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Animal-Planet.m3u8
+#EXTINF:-1,Discovery ID
+https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Disc-Investigation.m3u8
+#EXTINF:-1,Discovery KIDS
+https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Discovery-Kids.m3u8
+#EXTINF:-1,Discovery SCIENCE
+https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Discovery-Science.m3u8
+#EXTINF:-1,Discovery TURBO
+https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Discovery-Turbo.m3u8
+#EXTINF:-1,Discovery HD
+https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Discovery.m3u8
+#EXTINF:-1,DMAX
+https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Dmax.m3u8
+#EXTINF:-1,Food Network
+https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Food-Network.m3u8
+#EXTINF:-1,HGTV
+https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/HGTV.m3u8
+#EXTINF:-1,TLC
+https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/TLC.m3u8
+#EXTINF:-1,Travel Channel
+https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Travel-Ch.m3u8
 #EXTINF:-1,Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, Tennis 2
