@@ -1,73 +1,12 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://i.imgur.com/eUzYZfg.png",ATV
-https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/fY9256H.png",ATV+ Noticias
-https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/QNCosaS.png",Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/mvNLE8f.png",Esports Max
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Logo-asn.png",KFPH-DT3
-http://v-px.theus6tv.duckdns.org/hls/13.3/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/YLcmYCR.png",LBC
-https://rotanastudios-lbc-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg",Más TV
 https://video.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:0 tvg-logo="https://www.novelisima.com/assets/images/logo.png",Novelísima
-https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
-#EXTINF:0 tvg-logo="https://cdn.colombia.com/canales/pymes-teve-5713.jpg",Pymes TeVe
-https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
-#EXTINF:0 ,RTV 2
-mmsh://212.200.255.151/rtv2
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png",Rotana Cinema
-https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ufkCKCs.png",Rotana Classic
-https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/ZeHLXlw.png",Rotana Comedy
-https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/IhUe8Ka.png",Rotana Drama
-https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/FpZ7xVT.png",Rotana Music
-https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:0 ,TV Pi
 http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-tLgCyvI0mh0/XzgjQo6Q8xI/AAAAAAAA4ZM/Su9yAKHJ1dcKi55je1HpyPWfT1JrrX5ZgCK8BGAsYHg/s0/2020-08-15.jpg",UAO Play
-https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png",(ABC 7)
-http://v-ny.theus6tv.duckdns.org/hls/7.1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Localish_Logo.png",WABC-DT2
-http://v-ny.theus6tv.duckdns.org/hls/7.2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/512px-HSN_logo.svg.png",WABC-DT4
-http://v-ny.theus6tv.duckdns.org/hls/7.4/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Wacp-tv-4.png/512px-Wacp-tv-4.png",WACP-DT1 (TCT)
-http://v-pi.theus6tv.duckdns.org/hls/4.1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NBC_2013_fixed_logo.png/512px-NBC_2013_fixed_logo.png",WCAU-DT1
-http://v-pi.theus6tv.duckdns.org/hls/10.1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",WCBS-DT1
-http://v-ny.theus6tv.duckdns.org/hls/2.1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Start_TV_logo.svg/512px-Start_TV_logo.svg.png",WCBS-DT2
-http://v-ny.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Dabl_logo.svg/512px-Dabl_logo.svg.png",WCBS-DT3
-http://v-ny.theus6tv.duckdns.org/hls/2.3/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Logo_of_Fave_TV.png",WCBS-DT4 (FaveTV)
-http://v-ny.theus6tv.duckdns.org/hls/2.4/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/6w1Wj3j.png",WDPN-DT2 (Grit)
-http://v-pi.theus6tv.duckdns.org/hls/2.2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Daystar_TV.PNG/512px-Daystar_TV.PNG",WELL-LD1 (Daystar)
-http://v-pi.theus6tv.duckdns.org/hls/45.1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/Am%C3%A9rica_Tev%C3%A9_Logo.png",WFUT-DT1 (Unimas New York)
-http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/WJLP_New_York_Logo.png/512px-WJLP_New_York_Logo.png",WJLP-DT1 (MeTV New York)
-http://v-ny.theus6tv.duckdns.org/hls/33.1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png",WJLP-DT2 (Laff)
-http://v-ny.theus6tv.duckdns.org/hls/33.2/playlist.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/6w1Wj3j.png",WJLP-DT3 (Grit)
-http://v-ny.theus6tv.duckdns.org/hls/33.3/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png",WJLP-DT4 (Ion Mystery)
-http://v-ny.theus6tv.duckdns.org/hls/33.4/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/RetroTV_logo.png",WJLP-DT5 (Retro TV)
-http://v-ny.theus6tv.duckdns.org/hls/33.5/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Heartland_TV_logo.png",WJLP-DT6 (Heartland)
-http://v-ny.theus6tv.duckdns.org/hls/33.6/playlist.m3u8
-#EXTINF:0 tvg-logo="https://tvtv.us/gn/i/assets/s122968_ll_h15_aa.png?w=180&h=135",WJLP-DT7 (Story Television)
-http://v-ny.theus6tv.duckdns.org/hls/33.7/playlist.m3u8
+
+
+
