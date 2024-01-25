@@ -445,8 +445,6 @@ http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u
 https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/stream_t1_r720001.m3u8?useMezzanine=false
 #EXTINF:-1 group-title="News",3ABN
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/HQs/chunklist.m3u8
-#EXTINF:-1 group-title="News",TBN
-http://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
 #EXTINF:-1 group-title="News",Smithsonian
 http://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQuPjTD.png",Xplore
@@ -463,8 +461,6 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 http://edgesport-samsunguk.amagi.tv/playlist720pl.m3u8
 #EXTINF:-1,Global BC
 http://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1CViR0E.png" ,Outside TV+
-http://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="News",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 group-title="News",Atlanta Channel
@@ -485,7 +481,6 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="News",Channel News Asia Singapore
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mTd5yQ0.png",TYT
 http://tyt-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News",CGTN America
@@ -498,14 +493,10 @@ http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,EBS1 South Korea
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
-#EXTINF:-1 group-title="News",TWiT
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
 #EXTINF:-2 group-title="USA" tvg-logo="https://i.imgur.com/iJldO7U.jpg",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_700.m3u8
 #EXTINF:0,QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:0,Japan Weather News
-http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-2 group-title="Movies",CANAL WOW
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-2 group-title="Movies",EXTREMA TV
@@ -517,11 +508,11 @@ http://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-3 group-title="Religous",Amazing Discoveries
 https://adcdnpremium-amazingdiscoveries-uswe.streaming.media.azure.net/2b0d1188-b54a-4ea5-b4ce-507666062d14/2021.ism/QualityLevels(1476916)/Manifest(video,format=m3u8-aapl)
 #EXTINF:-3 group-title="Religous", BetterLifeTV
-http://uni5rtmp.tulix.tv/betterlife/betterlife/chunklist_w2126415016.m3u8
+https://rpn.bozztv.com/betterlife/betterlife/betterlife/tracks-v1a1/mono.m3u8
 #EXTINF:-3 group-title="Religous", Better Health TV
-http://uni5rtmp.tulix.tv/betterhealth/betterhealth/chunklist_w317500077.m3u8
+https://rpn.bozztv.com/betterlife/betterhealth/betterhealth/tracks-v1a1/mono.m3u8
 #EXTINF:-3 group-title="Religous", Better Nature TV
-http://uni5rtmp.tulix.tv/betternature/betternature/chunklist_w1746837483.m3u8
+https://rpn.bozztv.com/betterlife/betternature/betternature/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="News",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-9 group-title="Radio", 3ABN_Radio 
@@ -546,25 +537,9 @@ http://audio-edge-es6pf.mia.g.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6
 http://ice42.securenetsystems.net/CLCL
 #EXTINF:-9 group-title="Radio" tvg-logo="https://boomchampionstt.com/wp-content/uploads/2018/10/94-Logo-2018.png",Boom Champions 94.1
 http://s8.yesstreaming.net:7103/stream
-#EXTINF:-9 group-title="Radio", BBC Radio 3 Classical
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_three.mpd
 #EXTINF:-9 group-title="Radio",Classical German
 http://stream.srg-ssr.ch/m/rsc_de/aacp_96
-#EXTINF:-9 group-title="Radio",MSNBC Radio
-http://tunein.ord.streamguys1.com/msnbc-free
-#EXTINF:-9 group-title="Radio"",MSNBC (Audio Only)
-https://ad-hls.tunein.com/v1/master/30ead7055f8b8e1f2f04add745f139b184df6925/production/v2/newsfree/msnbcfree/master.m3u8
 #EXTINF:-9 group-title="Radio",BBC World News
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_world_service.mpd
-#EXTINF:-9 group-title="Radio",BBC RADIO 1 RELAX
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/aks/bbc_radio_one_relax.mpd
-#EXTINF:-9 group-title="Radio",BBC 5 Live
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_radio_five_live.mpd
-#EXTINF:-9 group-title="Radio",BBC RADIO 6 MUSIC
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/cfs/bbc_6music.mpd
-#EXTINF:-9 group-title="Radio", AlJazeera Radio
-http://66.226.10.51:8000/AljazeeraEnglish
-#EXTINF:-9 group-title="Radio", INFOWARS Radio 
-http://192.240.107.134:80/alexjonesshow
 #EXTINF:-1,RTP Boliva
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1531716415.m3u8
