@@ -209,8 +209,6 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 #EXTINF:-1 ,Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
-#EXTINF:-1 ,National Geographic Wild
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 ,FOX SPORTS 3
 http://181.78.8.90:16123/play/ch21
 #EXTINF:-1 ,H&H
@@ -271,14 +269,8 @@ http://181.78.8.90:16123/play/ch60
 http://181.78.8.90:16123/play/ch61
 #EXTINF:-1 ,Caldas
 http://181.78.8.90:16123/play/ch66
-#EXTINF:-1 ,Multipremier
-http://45.5.117.182:8000/play/a0j4/index.m3u8
 #EXTINF:-1 ,Nat Geo HD
 http://45.5.117.182:8000/play/a0jr/index.m3u8
-#EXTINF:-1 ,NEXT - PAN
-http://45.5.117.182:8000/play/a0g5/index.m3u8
-#EXTINF:-1 ,Nick Jr
-http://45.5.117.182:8000/play/a0eo/index.m3u8
 #EXTINF:-1 ,Nickelodeon
 http://45.5.117.182:8000/play/a0is/index.m3u8
 #EXTINF:-1 ,Discovery Channel HD
