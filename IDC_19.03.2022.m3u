@@ -305,24 +305,12 @@ https://live-gbnews.simplestreamcdn.com/s3/gbnews_ssai/index.m3u8
 http://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/04.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
-#EXTINF:-1,Bon Appetit
-https://bonappetit-samsung.amagi.tv/master504p.m3u8
-#EXTINF:-1,Gusto TV
-https://gustotv-samsung-gb.samsung.wurl.com/manifest/089025e8e07edc059504b28ffd897267.m3u8
-#EXTINF:-1,So Yummy
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/1280x720_2855600/chunklist.m3u8
 #EXTINF:-1,Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_480p30.m3u8
-#EXTINF:-1,Canal 26 Agentina
-http://live-edge01.telecentro.net.ar/live/c26.smil/chunklist_w1692857809_b1864000_sleng.m3u8
 #EXTINF:-1 group-title="News",Press TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b644100_slen.m3u8
-#EXTINF:-1,PBS America
-http://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,PBS Minneapolis
 http://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
-#EXTINF:-1,PBS Guam
-https://ythls.onrender.com/channel/UCaVp5oNNuIZVU7qqhSX0LGQ.m3u8
 #EXTINF:-1,PBS World
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1,PBS | KET WORLD
@@ -331,12 +319,10 @@ https://2-fss-1.streamhoster.com/pl_122/amlst%3a200914-2942150/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1,PBS Kids | KET
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kiVL66Q.png",Yahoo! Finance
-http://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,PBS | Maryland Public TV
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 group-title="News",Euronews
-https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/71bf778598cc9ce36952bb8a3331551a.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kiVL66Q.png",Yahoo! Finance
+http://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_192x192.png",NHK World TV
 http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXTINF:-1 group-title="News",CNA
