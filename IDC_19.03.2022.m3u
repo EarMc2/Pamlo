@@ -302,7 +302,7 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(01)/index.
 #EXTINF:-1 group-title="News",GB News
 https://live-gbnews.simplestreamcdn.com/s3/gbnews_ssai/index.m3u8
 #EXTINF:-1 group-title="News",Court TV
-http://cdn-katz-networks-01.vos360.video/Content/HLS/Live/channel(courttv)/04.m3u8
+https://content-ause2-up-1.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef/d.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.courttv.com%2F&ad.cust_params=user_id%3Dundefined&pbs=2810e41aa5614758862d996d7dea06b4
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 #EXTINF:-1,Classic Arts Showcase
