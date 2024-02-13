@@ -308,7 +308,7 @@ http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/stream
 #EXTINF:-1,Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master_480p30.m3u8
 #EXTINF:-1 group-title="News",Press TV
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/chunklist_b644100_slen.m3u8
+https://cdnlive.presstv.ir/cdnlive/smil:mobile.smil/playlist.m3u8
 #EXTINF:-1,PBS Minneapolis
 http://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
 #EXTINF:-1,PBS World
@@ -324,7 +324,7 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kiVL66Q.png",Yahoo! Finance
 http://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_192x192.png",NHK World TV
-http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 group-title="News",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="News",NHK World Premium
