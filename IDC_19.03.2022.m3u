@@ -333,8 +333,6 @@ http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u
 https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/video.m3u8
 #EXTINF:-1 group-title="News",3ABN
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/HQs/chunklist.m3u8
-#EXTINF:-1 group-title="News",Smithsonian
-http://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQuPjTD.png",Xplore
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-3 group-title="Religous",CBN News
@@ -365,6 +363,8 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iJldO7U.jpg" group-title="USA",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_700.m3u8
+#EXTINF:-2 group-title="USA" tvg-logo="https://i.imgur.com/iJldO7U.jpg",NASA Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_700.m3u8
 #EXTINF:-1 group-title="News",Arirang TV Korea KR
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="News",Channel News Asia Singapore
@@ -381,8 +381,6 @@ http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,EBS1 South Korea
 http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
-#EXTINF:-2 group-title="USA" tvg-logo="https://i.imgur.com/iJldO7U.jpg",NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_700.m3u8
 #EXTINF:0,QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-2 group-title="Movies",CANAL WOW
