@@ -330,7 +330,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #EXTINF:-1 group-title="News",NHK World Premium
 http://112.72.4.108/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="News",Hope Channel
-https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/stream_t1_r720001.m3u8?useMezzanine=false
+https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/video.m3u8
 #EXTINF:-1 group-title="News",3ABN
 https://3abn-live.akamaized.net/hls/live/2010543/3ABN/HQs/chunklist.m3u8
 #EXTINF:-1 group-title="News",Smithsonian
