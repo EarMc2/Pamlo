@@ -29,6 +29,8 @@ https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/HGTV.m3u8
 https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png",FYI East
 http://fl2.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1,3ABN Canada
+https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:-1,Travel Channel
 https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Travel-Ch.m3u8
 #EXTINF:-1,Tennis Channel
