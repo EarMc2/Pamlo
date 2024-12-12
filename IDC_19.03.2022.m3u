@@ -29,6 +29,14 @@ https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/HGTV.m3u8
 https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/TLC.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png",FYI East
 http://fl2.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1,BBC Earth
+https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
+#EXTINF:-1,Gardening With Monty Don
+https://apollo.production-public.tubi.io/live/ac-gardening-monty-don.m3u8
+#EXTINF:-1,Americas Test Kitchen
+https://apollo.production-public.tubi.io/live/ac-americas-test-kitchen2.m3u8
+#EXTINF:-1,PBS Nature
+https://d3u65b2hl3g91w.cloudfront.net/playlist/amg01597-wnetnewyorkpubl-pbsnature-lgus/cb563d1d736c608784c83878d1f562c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d14778498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d66efb294757b15b6c0631dbe451b0245ac780178a7e7cddb08c306b28475dce0e59ecf25bf0a9e45a41bac6908b32707291afd6a870adb00e98e49602c01ad227a504cccca49bb74fd0d7c63c8b7f8856277952b01d1d1be9a473b9c88e6179bd7c2d541756e7d9e796cad33c263131cbfec5b877fa53e99b248f6432f979f0b7699be919c93a80c434cd9ebad145533ce4e3496029a4e0eaeaa97e5bb9173140d8f48e3cdcd66ddd07197fd0d30598da88ea1981d11c95b76cb5bb7b0907cf977aa88db38ae18a7d2bf615e7c8ee91314e4f2c514cd61deaad64d52dd26fbb8e3d151c1c14e3ca0e84b1d050663614c6980880485babcdd1d28c5d759a295b7ded63d2544a3e9c653c2cb47da8da1a659b230c8a2d72aa0b66ce128ecd469f90d2eb0234a2cd8713af1d889b3e92a752e73d461c68d4df23454c4071d194172b396bc643ebcb8aac373e09e2f3c2e9d3115f233c04591884f2ed13cad790c97ce97fdbfc06d6e8e4eac69b573014687cf113f55376/190/848x480_1686360/index.m3u8
 #EXTINF:-1,3ABN Canada
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 #EXTINF:-1,Travel Channel
@@ -37,6 +45,8 @@ https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Travel-Ch.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1, Tennis 2
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist720_p.m3u8
+#EXTINF:-1,Fox News Now
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8
 #EXTINF:-1,Discovery SCIENCE
 https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rStfeYzfLnvu5AtLu1nwr6rLvLwgr1uZbksK5utKnnmNbtzw5OCvDTEe5JA3Hfu1rREvfyzhLuruL6yLzADMriBfzrBLj1tvC5Afbumd0&auth=1189ebc0e399ad84320e0b65727e3ba93f89390c30fcd4d7535f6859928d7d9c
 #EXTINF:-1,Food Network
