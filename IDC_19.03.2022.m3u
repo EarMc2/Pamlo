@@ -19,8 +19,8 @@ https://v1.thetvapp.to/hls/Science/tracks-v2a1/mono.m3u8
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_7.m3u8
 #EXTINF:-1,Action Hollywood Movies
 https://amg01076-lightning-amg01076c4-tcl-us-2469.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-tclus/cb563d1d736c608784c83878d1f562c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d14738498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d66afb294757bb5b360137d4ed5ab0745191d6178a7e7f8bb0d56268784756ce5a58b4a508a3f7b75a47bac6908b32707291afd6a870adb00e98e49602c01ad227a504cccca49bb74fd0d7c63c8b7f8856277952b01d1d1be9a473b9c88e6179bd7c2d541756e7d9e796cad33c263131cbfec5b877fa53e99b248f6432f979f0b7699be919c93a80c434cd9ebad145533ce4e3496029a4e0eaeaa97e5bb9173140d8f48e3cdcd66ddd07197fd0d30598da88ea1981d11c95b76cb5bb7b0907cf977aa88db38ae18a7d2bf615e7c8ee91314e4f2c514cd61deaad64d52dd26fbb8e3d151c1c14e3ca0e84b1d050663614c6980880485babcdd1d28c59759a295b7ded63d2544a3e9c653c2cb47da8da1a659b230c8a2d72aa0b62ce128ecd469f90d2eb0234a2cd8713af1d889b3e92a752e73d461c68d4df23454c4071d194172b396bc643ebcb8aac373e09e2f3c2e9d3115f233c04591884f2ed12cedcd848fd7737d5fdc012243dc4a0742166cfed8a631c2b7981d5/52/640x360_1020800/index.m3u8
-#EXTINF:-1,DMAX
-https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Dmax.m3u8
+#EXTINF:-1,National Geographic Wild SD
+https://v1.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u
 #EXTINF:-1,Food Network
 https://v1.thetvapp.to/hls/FoodNetworkEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1,HGTV
@@ -67,8 +67,8 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/la1/la1_main_720.m3u8
 https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Movies",MyTime Movie Network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",i24 News
-https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:-1,Starz
+https://v1.thetvapp.to/hls/StarzEast/tracks-v2a1/mono.m3u8
 #EXTINF:-1,Pluto TV Science
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d9492c77ea6f99188738ff1/1042180/playlist.m3u8?terminate=false&sid=ROKUCHANNEL-1b8c9e54-e966-457f-84d1-a73e3161786d&deviceDNT=1&advertisingId=channel&deviceModel=web&deviceVersion=1.0&embedPartner=rokuChannel&serverSideAds=true&appName=rokuchannel&deviceId=channel&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel
 #EXTINF:-1,Pluto TV Documentaries
