@@ -9,10 +9,10 @@ http://rt-glb.rttv.com/live/rtnews/playlist_1600Kb.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 #EXTINF:-1,Animal Planet
 https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Animal-Planet.m3u8
-#EXTINF:-1,Discovery ID
-https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Disc-Investigation.m3u8
-#EXTINF:-1,Discovery KIDS
-https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Discovery-Kids.m3u8
+#EXTINF:-1,Travel XP UK
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/1200.m3u8
+#EXTINF:-1,Travel XP NL
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/1200.m3u8
 #EXTINF:-1,Discovery SCIENCE
 https://raw.githubusercontent.com/EarMc2/Pamlo/main/UScab/Discovery-Science.m3u8
 #EXTINF:-1,Discovery TURBO
