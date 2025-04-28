@@ -96,9 +96,9 @@ https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/DiBRpcI.jpg",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:0,Tastemade AUS
-https://tastemade-aus-tmina-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,AMC HD
-http://45.5.117.182:8000/play/a0fn/index.m3u8
+https://tastemade-aus-tmina-rakuten.amagi.tv/playlist404-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yxEbZqn.jpg" group-title="News",ABC 5 Oklahoma City
+https://apollo.production-public.tubi.io/live/ac-koco/640x360.m3u8?ap.debug=0&ap.pt=0&ap.sid=fca413c3-a049-43d5-a91a-47230f2b8ac7&ap.skip_fallback=0&ap.c=default_cohort&ap.ss=17a66ba2246c5e6d69fbb639c4599f07
 #EXTINF:-1 ,A&E HD
 http://45.5.117.182:8000/play/a0fm/index.m3u8
 #EXTINF:-1 ,TNT
